@@ -12,7 +12,7 @@ def start_adventure():
 		print("You have accquired {}".format(options[player_decision-1]))
 		options.pop(player_decision-1)
 	elif player_decision == 4:
-		print("The Sign Board reads \"This is the forbidden island of an unnamed goddes. Anyone who sets foot on this island will suffer the wrath of the mad TITAN\""
+		print("The Sign Board reads \"This is the forbidden island of an unnamed goddes. Anyone who sets foot on this island will suffer the wrath of the mad TITAN\"")
 	elif player_decision == 3:
 		print("You went deep into the Jungle")
 	else:
